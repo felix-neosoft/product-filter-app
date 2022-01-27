@@ -1,0 +1,96 @@
+.form-index{
+  background-color: #2E4C6D;
+  height: 721px;
+  color: #FC997C;
+}
+
+.index-header{
+  background-color: black;
+  padding: 5px 0px 5px 50px;
+}
+
+.login-f{
+  margin-top: 100px;
+}
+
+.index-header h1{
+  font-size: 35px;
+}
+
+.form-index-content{
+  border: 1px solid #FC997C;
+  border-radius: 20px;
+  box-shadow: 3px 3px 3px 3px #888888;
+  padding: 30px 40px;
+  position: absolute;
+  left: 25%;
+  top: 10%;
+}
+
+.btn-text{
+  color:#FC997C;
+  margin: 10px 0px 0px 0px;
+}
+
+.btn-text:hover{
+  background-color: white;
+  color: black;
+}
+
+.btn-index{
+  color: #2E4C6D;
+  background-color: #FC997C;
+  float: right;
+
+}
+
+/* -------------Dashboard------------------ */
+
+.btn-logout{
+  border:none;
+  background-color: white;
+  margin: 0px auto;
+}
+
+.btn-logout:hover{
+  background-color: white;
+}
+
+.card-box{
+  margin: 20px 30px;
+  padding: 10px 20px
+}
+
+.card-img:hover{
+  display: none;
+}
+
+.overlay{
+  display: none;
+}
+
+.card-box img{
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:100%;
+}
+
+.card-box:hover .overlay{
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  width: 92%;
+  height:300px;
+  transition: 2s ease;
+}
+
+.footer{
+  background-color: #160040;
+  height: 100px;
+  color: white;
+  text-align: center;
+}
+
+.footer h4{
+  padding-top:50px;
+}

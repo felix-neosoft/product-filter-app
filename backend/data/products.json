@@ -1,0 +1,22 @@
+[
+    {"id":1,"category":"mobile","name":"Xiaomi 11 Lite","price":"26999", "quantity":"10","images":["images/mobile1-1.jpg","images/mobile1-2.jpg","images/mobile1-3.jpg"]},
+    {"id":2,"category":"mobile","name":"Samsung Galaxy S20 FE","price":"39999", "quantity":"6","images":["images/mobile2-1.jpg","images/mobile2-2.jpg","images/mobile2-3.jpg"]},
+    {"id":3,"category":"mobile","name":"Apple Iphone 13 mini","price":"69999", "quantity":"3","images":["images/mobile3-1.jpg","images/mobile3-2.jpg","images/mobile3-3.jpg"]},
+    {"id":4,"category":"mobile","name":"Nokia G20","price":"12490", "quantity":"9","images":["images/mobile4-1.jpg","images/mobile4-2.jpg","images/mobile4-3.jpg"]},
+    {"id":5,"category":"mobile","name":"OnePlus 9 5G","price":"49999", "quantity":"7","images":["images/mobile5-1.jpg","images/mobile5-2.jpg","images/mobile5-3.jpg"]},
+    {"id":6,"category":"headphones","name":"JBL Live 650BTNC","price":"8599", "quantity":"12","images":["images/sound1-1.jpg","images/sound1-2.jpg","images/sound1-3.jpg"]},
+    {"id":7,"category":"headphones","name":"Redmi EarBuds 3 Pro","price":"2999", "quantity":"10","images":["images/sound2-1.jpg","images/sound2-2.jpg","images/sound2-3.jpg"]},
+    {"id":8,"category":"headphones","name":"Sony WH-1000XM3","price":"16990", "quantity":"5","images":["images/sound3-1.jpg","images/sound3-2.jpg","images/sound3-3.jpg"]},
+    {"id":9,"category":"headphones","name":"Bose QuietConfort","price":"26900", "quantity":"4","images":["images/sound4-1.jpg","images/sound4-2.jpg","images/sound4-3.jpg"]},
+    {"id":10,"category":"headphones","name":"Skullcandy Set Sport","price":"1999", "quantity":"22","images":["images/sound5-1.jpg","images/sound5-2.jpg","images/sound5-3.jpg"]},
+    {"id":11,"category":"laptop","name":"LG Gram 14 Ultralight","price":"87999", "quantity":"3","images":["images/laptop1-1.jpg","images/laptop1-2.jpg","images/laptop1-3.jpg"]},
+    {"id":12,"category":"laptop","name":"Microsoft Surface Go 2","price":"45990", "quantity":"7","images":["images/laptop2-1.jpg","images/laptop2-2.jpg","images/laptop2-3.jpg"]},
+    {"id":13,"category":"laptop","name":"Mi Notebook Pro","price":"60999", "quantity":"6","images":["images/laptop3-1.jpg","images/laptop3-2.jpg","images/laptop3-3.jpg"]},
+    {"id":14,"category":"laptop","name":"Lenovo ThinkBook 15","price":"68990", "quantity":"9","images":["images/laptop4-1.jpg","images/laptop4-2.jpg","images/laptop4-3.jpg"]},
+    {"id":15,"category":"laptop","name":"Dell Vostro 14","price":"39990", "quantity":"12","images":["images/laptop5-1.jpg","images/laptop5-2.jpg","images/laptop5-3.jpg"]},
+    {"id":16,"category":"camera","name":"Canon EOS 1500D","price":"34990", "quantity":"10","images":["images/camera1-1.jpg","images/camera1-2.jpg","images/camera1-3.jpg"]},
+    {"id":17,"category":"camera","name":"Sony Alpha ILCE 6000Y","price":"53990", "quantity":"8","images":["images/camera2-1.jpg","images/camera2-2.jpg","images/camera2-3.jpg"]},
+    {"id":18,"category":"camera","name":"Panesonic Lumix G DC-GH5S","price":"135761", "quantity":"2","images":["images/camera3-1.jpg","images/camera3-2.jpg","images/camera3-3.jpg"]},
+    {"id":19,"category":"camera","name":"Nikon Mirrorless Z7","price":"231990", "quantity":"2","images":["images/camera4-1.jpg","images/camera4-2.jpg","images/camera4-3.jpg"]},
+    {"id":20,"category":"camera","name":"Nikon Mirrorless Z50","price":"84899", "quantity":"8","images":["images/camera5-1.jpg","images/camera5-2.jpg","images/camera5-3.jpg"]}
+]
